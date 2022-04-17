@@ -1,0 +1,7 @@
+123 123 berke ates 300 0
+456 456 merve ates 300 0
+789 789 murvet ates 150 0
+654 123 ladin coskun 500 0
+321 321 cem coskun 0 0
+753 753 meral tasan 0 0
+111 111 selamun aleykum 0 0
